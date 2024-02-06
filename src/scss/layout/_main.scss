@@ -1,7 +1,7 @@
 .section1{
     display: grid;
     grid-template-columns: 1fr;
-    padding: 34px 12px 2px 13px;
+    padding: 34px;
 
         &__subtitle{
         color: #6c933e;
@@ -81,7 +81,7 @@
 
 @media (min-width:1200px){
     .section1{
-        padding-left: 275px;
+        padding-left: 150px;
     }
 
 }
