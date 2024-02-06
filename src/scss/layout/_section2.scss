@@ -20,10 +20,11 @@
         }
 
         &__img{
-            width: 114px;
-            height: 100%;
+            width: 11.4rem;
+            height: 12.4rem;
             border-radius: 50%;
             object-fit: cover;
+            box-shadow: 0rem 0.4rem 0.4rem grey;
 
         }
 
@@ -78,8 +79,9 @@
         &__text{
         font-size: 1.25rem;
     }
-}
-    .div__buttom--section2{
+
+.section2__buttom{
         grid-column: span 3;
         }
+}
 }

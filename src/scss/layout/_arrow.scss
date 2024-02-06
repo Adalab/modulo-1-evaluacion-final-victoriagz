@@ -1,4 +1,4 @@
-.arrow{
+.arrow {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -14,4 +14,9 @@
         display: flex;
         justify-content: center;
     }
-}
+
+    &__img{
+        width: 25px;
+        }
+    }
+

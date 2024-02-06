@@ -24,24 +24,23 @@
         line-height: 2;
         padding: 0 12px 0 16px;
     }
-
         &__buttom{
-            padding: 10px;
-        width: 160px;
-        height: 50px;
+        padding: 10px;
+        width: 16rem;
+        height: 4.5rem;
         color: #6c933e;
         background-color: white;
-        border-radius: 35.5px;
+        border-radius: 3rem;
         border: 1px solid #6c933e;
-        text-decoration: none;
-        
         font-family: "Roboto Slab", serif;
-        font-size: 2rem;
+        font-size: 1rem;
         font-weight: 500;
         margin: 125px 0 41px 16px;
         text-decoration: none;
         line-height: 45px;
         text-align: center;
+        grid-column: 2/2;
+        grid-row: 4/4;
 
         &:hover{
         background-color:  #6c933e;
@@ -50,10 +49,6 @@
             transform: scale(1.2, 1.2);
         }
     }
-}
-.buttom {
-    padding-top: 30px;
-    padding-bottom: 30px;
 }
 
 @media (min-width:768px){
