@@ -43,4 +43,4 @@ Miércoles, 07 de febrero del 2024 a las 1400h
 
 ###
 
-<img src="images/version_tablet.png"  />
+![Página final](/public/images/version_tablet.png)
