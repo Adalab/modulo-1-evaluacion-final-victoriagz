@@ -15,20 +15,19 @@ que resolver varios puntos:
 </p>
 
 <h3 align="left">**Detalles**</h3>
-<p align="left">
+
 1. El botón de hamburguesa (en la esquina superior izquierda) debe estar fijo en la parte superior de la
-pantalla y no debe desaparecer al hacer scroll. El icono de la hamburguesa debe ser un enlace a la
-página de Adalab. Este menú de hamburguesa no desplega ningún submenú.
-2. Primer módulo (hero - Comienzos compartidos): debe estar maquetado con Flexbox y debe ocupar
-el alto de la ventana del navegador.
-3. Segundo módulo (Tu tienda de deporte): se puede maquetar usando las propiedades de CSS que se
-deseen.
-4.  Tercer módulo (Vuelta al cole): los 3 elementos del listado deben estar maquetados con CSS Grid en
-todos los tamaños de pantalla en los que se necesite.
-5.  Cuarto módulo (footer): se debe maquetar usando flexbox. Todos los textos de la columna
-"ZAPATILLAS" y todos los textos de la columna "TWITTER" deben ser enlaces a la página de
-Adalab
-</p>
+   pantalla y no debe desaparecer al hacer scroll. El icono de la hamburguesa debe ser un enlace a la
+   página de Adalab. Este menú de hamburguesa no desplega ningún submenú.
+1. Primer módulo (hero - Comienzos compartidos): debe estar maquetado con Flexbox y debe ocupar
+   el alto de la ventana del navegador.
+1. Segundo módulo (Tu tienda de deporte): se puede maquetar usando las propiedades de CSS que se
+   deseen.
+1. Tercer módulo (Vuelta al cole): los 3 elementos del listado deben estar maquetados con CSS Grid en
+   todos los tamaños de pantalla en los que se necesite.
+1. Cuarto módulo (footer): se debe maquetar usando flexbox. Todos los textos de la columna
+   "ZAPATILLAS" y todos los textos de la columna "TWITTER" deben ser enlaces a la página de
+   Adalab
 
 <h3 align="left">**Entrega** </h3>
 <p align="left">
