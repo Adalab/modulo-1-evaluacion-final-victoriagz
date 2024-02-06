@@ -1,0 +1,49 @@
+.footer{
+    background-color: #4a4a4a;
+   font-family: "Roboto Slab", serif;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+    padding-top: 65px;
+    line-height: 1.80;
+
+        &__list{
+        font-size: 1rem;
+        line-height: 1.88;
+        list-style: none;
+
+        &--link{
+        text-transform: uppercase;
+        color: white;
+        text-decoration: none;
+
+        }
+    }
+}
+
+.copy{
+    padding-bottom: 36px;
+    color: white;
+    font-size: 0.875rem;
+
+    span{
+        color:  #6c933e;
+    }
+}
+
+@media (min-width:768px){
+
+    .footer{
+        flex-direction: row;
+        justify-content: space-evenly;
+        padding: 56px 69px 34px 95px;
+    }
+    .copy{
+        order: -1;
+    }
+    .footer_nav{
+        text-decoration: none;
+    }
+
+}
