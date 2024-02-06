@@ -8,7 +8,7 @@
 
 <h3 align="left"> Requerimientos </h3>
 <p align="left">
-El ejercicio consiste en desarrollar una página web de acuerdo a un diseño que os proporcionamos. Hay
+El ejercicio consiste en desarrollar una página web de acuerdo a un diseño que nos ha proporcionado Adalab. Hay
 que resolver varios puntos:
 - Usar Sass.
 - Usar flexbox y CSS Grid.
