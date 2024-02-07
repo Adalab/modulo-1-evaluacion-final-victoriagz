@@ -1,4 +1,6 @@
 .section2{
+    // width: 100vw;
+    // height: 30rem;
     background-color: #d9e4cc;
     display: grid;
     grid-template-columns: 1fr;
@@ -64,6 +66,8 @@
 @media (min-width:768px){
 
     .section2{
+        width: 100vw;
+        height: 30rem;
         grid-template-columns: 1fr 1fr 1fr;
         grid-template-rows: 1fr 1fr 1fr;
         gap: 25px;
